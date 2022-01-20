@@ -2,13 +2,12 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./generateMarkdown.js');
+const { generateKey } = require('crypto');
 
 
 // TODO: Create an array of questions for user input
 
 const questions = [
-        
-    
         {
             name: 'title',
             type: 'input',
