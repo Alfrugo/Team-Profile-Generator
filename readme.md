@@ -26,16 +26,16 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
+<img src="https://user-images.githubusercontent.com/36056407/150695746-34adc8c6-a1f6-426d-9a7d-4c2a566bf08a.png">
+
+## Instructions
+
+To run the the application you will need Node JS installed.  Type node index.js to execute the application. 
+
+You can also run Jest test in the application to verify the /lib classes are working properly and pass the test. You will need to install Jest to run the tests. Type npm test to run the test. 
+
 ## License
 The license used for this project is MIT.
-
-
-
-
-
-
-
-
 
 This project was created by [Alfredo Diez](https://alfredo-diez.com)  - Please, [contact me](mailto:diez_alfredo@hotmail.com) if you have further questions. 
 
