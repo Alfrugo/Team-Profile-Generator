@@ -1,0 +1,69 @@
+* {
+    margin: 10px;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+
+.navbar {
+    background-color: grey;
+    color: rgb(77, 76, 77);
+    font-size: 50px;
+    height: 100px;
+}
+.card {
+    background-color: rgb(92, 175, 205);
+    padding: 0;
+    margin: 0;
+    border-radius: 15px;
+}
+.card-body {
+    background-color: rgb(255, 255, 255);
+    color: grey;
+    margin: 8px;
+    padding: 5px;
+}
+.card-headerEng {
+    background-color: greenyellow;
+    color: grey;
+    height: 130px;
+    padding: 10px;
+}
+.card-headerEng h4 {
+    background-color: greenyellow;
+}
+
+.card-headerInt {
+    background-color: rgb(47, 217, 255);
+    color: grey;
+    height: 130px;
+    padding: 10px;
+}
+.card-headerInt h4 {
+    background-color: rgb(47, 217, 255);
+}
+.card-headerInt h3 {
+    background-color: rgb(47, 217, 255);
+}
+.card-headerEng h3 {
+    background-color: greenyellow;
+}
+
+.card-headerMan {
+    background-color: rgb(183, 81, 227);
+    color: rgb(228, 228, 228);
+    height: 130px;
+    padding: 10px;
+}
+.card-headerMan h4 {
+    background-color: rgb(183, 81, 227);
+}
+.card-headerMan h3 {
+    background-color: rgb(183, 81, 227);
+}
+
+
+h1 {
+margin: auto;
+background-color: rgb(128, 128, 128);
+color: rgb(244, 244, 244);
+}
